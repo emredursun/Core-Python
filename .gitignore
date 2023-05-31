@@ -1,0 +1,35 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+ENV/
+*.venv/
+.venv/
+pipenv/
+
+# Project dependencies (use `pip freeze > requirements.txt` to generate)
+requirements.txt
+*.egg-info/
+dist/
+build/
+
+# IDE files and settings (feel free to modify/add according to your specific IDE)
+.idea/
+.vscode/
+*.sublime-*
+*.pyc
+
+# Log files
+*.log
+
+# Compiled Python files
+*.exe
+*.dll
+*.so
+*.pyd
+
+# Miscellaneous
+.DS_Store
